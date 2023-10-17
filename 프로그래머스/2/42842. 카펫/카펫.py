@@ -7,11 +7,3 @@ def solution(brown, yellow):
             return_list = [i, total // i]
     
     return return_list
-    
-    # if len(return_list) == 1:
-    #     answer = return_list[0]
-    # else:
-    #     pass
-        
-        
-    # return answer
